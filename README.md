@@ -9,9 +9,9 @@
 自豪地采用[谷歌翻译](https://translate.google.cn/)
 
 + [在线阅读](https://www.gitbook.com/book/wizardforcel/android-app-sec-guidebook/details)
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/android-app-sec-guidebook)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/android-app-sec-guidebook)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/android-app-sec-guidebook)
++ [PDF 格式](https://www.gitbook.com/download/pdf/book/wizardforcel/android-app-sec-guidebook)
++ [EPUB 格式](https://www.gitbook.com/download/epub/book/wizardforcel/android-app-sec-guidebook)
++ [MOBI 格式](https://www.gitbook.com/download/mobi/book/wizardforcel/android-app-sec-guidebook)
 + [Github](https://github.com/wizardforcel/android-app-sec-guidebook-zh)
 
 ## 赞助我
